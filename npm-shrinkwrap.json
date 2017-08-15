@@ -2348,9 +2348,9 @@
       "resolved": "https://registry.npmjs.org/planar-graph-to-polyline/-/planar-graph-to-polyline-1.0.5.tgz"
     },
     "plotly.js": {
-      "version": "1.26.1",
-      "from": "plotly.js@1.26.1",
-      "resolved": "https://registry.npmjs.org/plotly.js/-/plotly.js-1.26.1.tgz"
+      "version": "1.29.3",
+      "from": "plotly.js@1.29.3",
+      "resolved": "https://registry.npmjs.org/plotly.js/-/plotly.js-1.29.3.tgz"
     },
     "pngjs": {
       "version": "2.3.1",
