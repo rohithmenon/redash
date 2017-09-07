@@ -1,2 +1,2 @@
-<select ng-model="$ctrl.param.value" class="form-control" ng-options="option.value as option.name for option in $ctrl.queryResultOptions">
+<select ng-model="$ctrl.param.value" class="form-control" ng-options="option.value as option.name for option in $ctrl.queryResultOptions" ng-model-options="{updateOn: 'change'}">
 </select>
